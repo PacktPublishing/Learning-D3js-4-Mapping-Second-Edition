@@ -30,6 +30,3 @@ npm for example, v5.5.1+
 * [D3.js 4.x Data Visualization - Third Edition](https://www.packtpub.com/web-development/d3js-4x-data-visualization-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787120358)
 
 * [Mastering Machine Learning Algorithms](https://www.packtpub.com/big-data-and-business-intelligence/mastering-machine-learning-algorithms?utm_source=github&utm_medium=repository&utm_campaign=9781788621113)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
