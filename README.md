@@ -5,8 +5,8 @@ This book explores the JavaScript library D3. js and its ability to help us crea
 
 
 ## Instructions and Navigation
-#Note: The name of book has been changed from "Learning D3.js 4 Mapping" to "Learning D3.js 5 Mapping". 
-#Updated code files are placed in "updated code" folder on GitHub"
+# Note: The name of book has been changed from "Learning D3.js 4 Mapping" to "Learning D3.js 5 Mapping". 
+# Updated code files are placed in "updated code" folder on GitHub"
 
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
